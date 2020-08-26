@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>resources/icons/line.svg</file>
+    <file>resources/icons/box.svg</file>
+    <file>resources/icons/rounded-box.svg</file>
+    <file>resources/icons/circle.svg</file>
+    <file>resources/icons/arc.svg</file>
+    <file>resources/icons/stick.svg</file>
+    <file>resources/icons/donut.svg</file>
+</qresource>
+</RCC>
