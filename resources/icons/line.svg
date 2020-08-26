@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 32 32"
+   height="32"
+   width="32">
+    <line
+       x1="6"
+       y1="26"
+       x2="26"
+       y2="6"
+       fill="none"
+       stroke="blue"
+       stroke-width="4" />
+</svg>
